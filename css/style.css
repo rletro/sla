@@ -37,6 +37,10 @@ html,body{
 
 
 
+
+
+
+
 .tsocial{
 	margin-left: -40px;
 }
@@ -133,4 +137,62 @@ html,body{
 
 .div-integrantes{
 	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+#agenda{
+	padding-top: 20px;
+}
+
+.lineag > li{
+	display: inline;
+}
+
+
+
+
+
+.btn-download{
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.date-form{
+	width: 180px;
 }
